@@ -7,7 +7,7 @@ Data Analyst
 I\`m learning data analysis at [Hexlet online-school](https://cv.hexlet.io/ru/resumes/5838). I have already learned SQL and finished 1 project. Currently I`m mastering Python and finishing my 2nd project. Open to work!
 
 * 🌍  I'm based in Yekaterinburg, Russia
-* 🖥️  You can find my CV [here](https://cv.hexlet.io/ru/resumes/4024)
+* 🖥️  You can find my CV [here](https://cv.hexlet.io/ru/resumes/5838)
 
 * 👨‍🎓 Education:
   * Data Analytics, Hexlet (since January 2024)
